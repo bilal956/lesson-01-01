@@ -4,5 +4,9 @@ master branch data
 =======
 new branch data
 new change
+<<<<<<< HEAD
+>>>>>>> new
+=======
+new1 change
 >>>>>>> new
 
