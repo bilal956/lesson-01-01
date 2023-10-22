@@ -1,3 +1,8 @@
 feature branch data
+<<<<<<< HEAD
 master branch data
+=======
+new branch data
+new change
+>>>>>>> new
 
